@@ -1,7 +1,9 @@
 body{
-    background: white url("images/background.jpg") no-repeat;
+    background: white url("./images/background.jpg") no-repeat;
 }
 
 li a {
-    color: green;
+    color: black;
+    font-size: 20px;
+    line-height: 1.5;
 }
